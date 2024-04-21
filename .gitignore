@@ -1,0 +1,28 @@
+# Node.js / npm
+node_modules/
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# IDE / editor specific files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# MongoDB data directory
+data/
+
+# MongoDB configuration file
+mongo.conf
+
+# Other generated files
+.DS_Store
+dist/
+Searching
